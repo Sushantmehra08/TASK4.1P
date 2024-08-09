@@ -1,0 +1,35 @@
+.featured-tutorials {
+    padding: 20px;
+  }
+  
+  .tutorials-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .tutorial {
+    width: 30%;
+    padding: 10px;
+    background-color: #f8f8f8;
+    text-align: center;
+    border-radius: 5px;
+  }
+  
+  .tutorial-image {
+    height: 150px;
+    background-color: #ccc;
+    margin-bottom: 10px;
+  }
+  
+  .see-all-btn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
